@@ -14,21 +14,21 @@ apt-get update -y && apt-get upgrade -y &&
 wget https://raw.githubusercontent.com/RolkosModai/SSHPLUS-MANAGER-FREE/master/Plus && 
 chmod 777 Plus && ./Plus
 ```
-SSHPLUS MANAGER (las dependencias faltantes se instalarán automáticamente)
+SSHPLUS MANAGER (the missing dependencies were installed automatically)
 
 ## :scroll: Changelog
 **VERSION: 38**
-* Websocket agregado
-* Correcciones y mejoras
+* Websocket aggregate
+* Fixes and improvements
 
 ## :book: How it works
-* SSH conexión
-* Conexiones Dropbear, SSLTunnel4, OpenVPN, etc
-* Elimina y crea usuarios
-* Monitor de conexión online
-* Detalles de tu sistema y usuarios
-* Herramientas de escaneo y búsqueda
-* Optimiza y limpia el sistema y más
+* SSH connection
+* Connection Dropbear, SSLTunnel4, OpenVPN, etc
+* Delete and create users
+* Online connection monitor
+* Details of your system and users
+* Scan and search tools
+* Optimize and clean the system and more
 
 ## :heavy_exclamation_mark: Requirements
 * Un sistema operativo basado en Linux (Ubuntu o Debian)
