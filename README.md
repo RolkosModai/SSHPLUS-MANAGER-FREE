@@ -39,10 +39,10 @@ SSHPLUS MANAGER (the missing dependencies were installed automatically)
 * Default language is English
 
 ## :book: Optional Utilities
-1. Reinstall the Scripts run the sshplus command in the console [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Reinstall_SSHPlus-Manager.png)
-2. Skin menu adapted ADM format executes the menuV3 command in the console [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Update_menuV3.png)
-3. Adapted menu skin executes the command menuV2 in the console [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Update_menuV2.png)
-4. Restore the original menu execute the menuV1 command in the console [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.png)
+1. Reinstall the Scripts run the sshplus command in the console [Image version](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Reinstall_SSHPlus-Manager.png)
+2. Skin menu adapted ADM format executes the menuV3 command in the console [Image version](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Update_menuV3.png)
+3. Adapted menu skin executes the command menuV2 in the console [Image version](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Update_menuV2.png)
+4. Restore the original menu execute the menuV1 command in the console [Image version](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.png)
 5. Download Source Code [Donwload](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Source-Code-SSHPlus.zip)
 
 ## :book: Installation Utilities
