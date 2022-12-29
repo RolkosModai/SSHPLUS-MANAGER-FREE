@@ -31,19 +31,19 @@ SSHPLUS MANAGER (the missing dependencies were installed automatically)
 * Optimize and clean the system and more
 
 ## :heavy_exclamation_mark: Requirements
-* Un sistema operativo basado en Linux (Ubuntu o Debian)
+* A Linux-based operating system (Ubuntu o Debian)
 * Ubuntu 18.04 Server x86_64 / Ubuntu 20.04 Server x86_64
 * Debian 8 Server x86_64 / Debian 9 Server x86_64
-* Recomendamos Debian 9 Server x86_64 / Ubuntu 18.04 Server x86_64
-* Se recomienda usar una distro nueva o formateada
-* Idioma por defecto es el portugués
+* We recommend Debian 9 Server x86_64 / Ubuntu 18.04 Server x86_64
+* It is recommended to use a new or formatted distro
+* Default language is English
 
 ## :book: Optional Utilities
-1. Reinstalar el Scripts ejecutar en consola el comando sshplus [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Reinstall_SSHPlus-Manager.png)
-2. Skin menú adaptado formato ADM ejecute en consola el comando menuV3 [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Update_menuV3.png)
-3. Skin menú adaptado ejecute en consola el comando menuV2 [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Update_menuV2.png)
-4. Restablecer el menú original ejecute en consola el comando menuV1 [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.png)
-5. Descargar Código Fuente [Donwload](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Source-Code-SSHPlus.zip)
+1. Reinstall the Scripts run the sshplus command in the console [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Reinstall_SSHPlus-Manager.png)
+2. Skin menu adapted ADM format executes the menuV3 command in the console [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Update_menuV3.png)
+3. Adapted menu skin executes the command menuV2 in the console [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Update_menuV2.png)
+4. Restore the original menu execute the menuV1 command in the console [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.png)
+5. Download Source Code [Donwload](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Source-Code-SSHPlus.zip)
 
 ## :book: Installation Utilities
 1. [Generador de Key Sshplus Manager](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Generador)
