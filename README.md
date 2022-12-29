@@ -1,8 +1,9 @@
 ﻿```
 * UPDATE 09/08/2021 - Discontinued project
 * SSHPLUS MANAGER (Final Version 38)
+* SSHPLUS MANAGER (English version)
 ```
-![logo](https://raw.githubusercontent.com/RolkosModai/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.png)
+![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.png)
 
 # SSHPLUS MANAGER
 It is a script with a set of features and tools suitable to offer extreme ease of use on Linux servers with a focus on the use of VPN,
