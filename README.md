@@ -46,10 +46,10 @@ SSHPLUS MANAGER (the missing dependencies were installed automatically)
 5. Download Source Code [Donwload](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Source-Code-SSHPlus.zip)
 
 ## :book: Installation Utilities
-1. [Generador de Key Sshplus Manager](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Generador)
-2. [Script Oficial Painel Revenda Ssh Versao 20](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web/panel_v20)
-3. [Multi-Instalador Plus](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Multi-Instalador)
-4. [Painel Revenda SSH (Versiones)](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web)
+1. [Sshplus Manager Key Generator](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Generador)
+2. [Official Script Panel Resell Ssh Version 20](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web/panel_v20)
+3. [Multi-Installer Plus](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Multi-Instalador)
+4. [Panel Resell SSH (Versions)](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web)
 5. [Tcp-Tweaker-1.0 (Tcp-Speed)](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/TCP-Speed)
 
 ## :octocat: Credits
