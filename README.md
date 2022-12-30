@@ -4,6 +4,7 @@
 * SSHPLUS MANAGER (English version)
 ```
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.png)
+<p dir="auto"><img src="https://raw.githubusercontent.com/RolkosModai/SSHPLUS-MANAGER-FREE/master/Imagenes/SSHPLUS_MANAGER.png" alt="" width="500" height="408" /></p>
 
 # SSHPLUS MANAGER
 It is a script with a set of features and tools suitable to offer extreme ease of use on Linux servers with a focus on the use of VPN,
