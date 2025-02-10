@@ -464,9 +464,9 @@
 
 	inst_ssl() {
 		if netstat -nltp | grep 'stunnel4' 1>/dev/null 2>/dev/null; then
-			[[ $(netstat -nltp | grep 'stunnel4' | wc -l) != '0' ]] && sslt=$(netstat -nplt | grep stunnel4 | awk {'print $4'} | awk -F ":" {'print $2'} | xargs) || sslt="\033[1;31mNEPASIEKIAMAS"
+			[[ $(netstat -nltp | grep 'stunnel4' | wc -l) != '0' ]] && sslt=$(netstat -nplt | grep stunnel4 | awk {'print $4'} | awk -F ":" {'print $2'} | xargs) || sslt="\033[1;31mINDISPONIVEL"
 			echo -e "\E[44;1;37m              MANAGE SSL TUNNEL               \E[0m"
-			echo -e "\n\033[1;33mPORTAS\033[1;37m: \033[1;32m$sslt"
+			echo -e "\n\033[1;33mPORTS\033[1;37m: \033[1;32m$sslt"
 			echo ""
 			echo -e "\033[1;31m[\033[1;36m1\033[1;31m] \033[1;37m• \033[1;33mCHANGE SSL TUNNEL PORT\033[0m"
 			echo -e "\033[1;31m[\033[1;36m2\033[1;31m] \033[1;37m• \033[1;33mREMOVE SSL TUNNEL\033[0m"
@@ -496,7 +496,7 @@
 				echo -e "\033[1;32mRESTARTING SSL TUNNEL!\n"
 				fun_bar 'service stunnel4 restart' '/etc/init.d/stunnel4 restart'
 				echo ""
-				netstat -nltp | grep 'stunnel4' >/dev/null && echo -e "\033[1;32mPORT CHANGED SUCCESSFULLY !" || echo -e "\033[1;31mNETIKETA KLAIDA!"
+				netstat -nltp | grep 'stunnel4' >/dev/null && echo -e "\033[1;32mPORT CHANGED SUCCESSFULLY !" || echo -e "\033[1;31mUNEXPECTED ERROR!"
 				sleep 3.5s
 				clear
 				fun_conexao
@@ -515,7 +515,7 @@
 				echo ""
 				fun_bar 'del_ssl'
 				echo ""
-				echo -e "\033[1;32mUCCESSFULLY REMOVED SSL TUNNEL!\033[0m"
+				echo -e "\033[1;32mSUCCESSFULLY REMOVED SSL TUNNEL!\033[0m"
 				sleep 3
 				fun_conexao
 			} || {
